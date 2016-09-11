@@ -21,7 +21,7 @@ https://github.com/egoist/how-often
 
 Obviously it works with Redux, install via NPM: `npm i -D redux revue`
 
-You can also hot-link the CDN version: https://npmcdn.com/revue/revue.js, `Revue` is exposed to `window` object.
+You can also hot-link the CDN version: https://unpkg.com/revue/revue.js, `Revue` is exposed to `window` object.
 
 ```javascript
 // App.js
